@@ -32,6 +32,10 @@ Dictionary file taken from [Version 1.36.2](https://github.com/blastrock/kakugo/
 ##### Solution
 - querry Wadoku
 
-##### Some statistics
-- 454 entries matched 1:1, meaning wadoku gave the same single word as in the database
+##### Some statistics for the wadoku extract
+- 102 entries without german translation
+- 604 entries matched 1:1, meaning wadoku gave the same single word/phrase as in the database
 - 4592 times the first word matched exactly, but wadoku provided variations
+- 6492 times the old definiton is found within the first three wadoku definitions
+- 上げる [あげる] has the most variations with 448
+- 来る [くる] has the longest definition counting 313 characters

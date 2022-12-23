@@ -87,7 +87,7 @@ if lang == "":
 dict = {"kanji": [], "meaning": []}
 if file_kanji_cache != "":
     try:
-        with open(file_kanji_cache, 'r', encoding='utf-8') as f:
+        with open("heisig_extract/" + file_kanji_cache, 'r', encoding='utf-8') as f:
             print("Reading text cache from \"" + file_kanji_cache + "\"")
             count = 1
             for l in f:
@@ -104,7 +104,7 @@ content = ""
 if len(dict["kanji"]) == 0:
     if file_text_cache != "":
         try:
-            with open(file_text_cache, 'r', encoding='utf-8') as f:
+            with open("heisig_extract/" + file_text_cache, 'r', encoding='utf-8') as f:
                 print("Reading text cache from \"" + file_text_cache + "\"")
                 for l in f:
                     content += l
@@ -138,7 +138,7 @@ if len(dict["kanji"]) == 0:
     # dump extracted text
     if file_text_dump != "":
         try:
-            with open(file_text_dump, 'w', encoding='utf-8') as f:
+            with open("heisig_extract/" + file_text_dump, 'w', encoding='utf-8') as f:
                 print("Dumping extracted text to: " + file_text_dump + "\"")
                 f.write(content)
         except EnvironmentError:
@@ -152,7 +152,7 @@ if len(dict["kanji"]) == 0:
     dump_file = ""
     if file_kanji_dump != "":
         try:
-            dump_file = open(file_kanji_dump, 'w', encoding='utf-8')
+            dump_file = open("heisig_extract/" + file_kanji_dump, 'w', encoding='utf-8')
             dump = True
         except EnvironmentError:
             print("WARNING: could not write to " + file_kanji_dump + ". Make shure the name is correct.")

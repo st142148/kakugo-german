@@ -543,9 +543,9 @@ aufziehen
 16777499
 Kinderpflege | Großziehen eines Kindes
 16777500
-eins | erst | erste Saite; von Shamisen, Koto usw.; die tiefste und dickste der Saiten
+eins | erst
 16777501
-ein
+ein | ein Stück
 16777502
 ein Handgriff
 16777503
@@ -861,7 +861,7 @@ hinübergehen
 16777658
 aufmerksame Lektüre | Prüfung von etw. Geschriebenem
 16777659
-… Yen | …¥
+Yen | ¥
 16777660
 schwacher Yen
 16777661
@@ -1109,7 +1109,7 @@ geben
 16777782
 herablassen
 16777783
-albern
+unsinnig | belanglos | albern
 16777784
 Abstieg
 16777785
@@ -3565,7 +3565,7 @@ Blutsverwandtschaft
 16779011
 Ader
 16779012
-(als Suffix) … Monate
+Mond
 16779013
 monatliche Herausgabe
 16779014
@@ -4117,7 +4117,7 @@ verstehen | erfassen | sich bewusst werden
 16779287
 Go-Spiel
 16779288
-Wort | Vokabelals Suffix | …isch
+Wort | Sprache
 16779289
 erzählen | berichten
 16779290
@@ -7167,7 +7167,7 @@ Kohlensäure (H₂CO₃) | Sprudel | Mineralwasser
 16781850
 kurz | knapp | ungeduldig
 16781851
-Tanka | 31-silbiges japanisches Gedicht (5-7-5-7-7 Silben)
+Tanka | jap. Gedicht (5-7-5-7-7 Silben)
 16781853
 Kurzzeituniversität | zwei‑ oder dreijährige Hochschule
 16781857
@@ -7287,7 +7287,7 @@ Mittelschüler | Schüler der Mittelschule
 16781979
 Vermittlung | Vermittler | Relais
 16781981
-Mittelalter (in Japan die Heian-Zeit) | alt | gebraucht
+gebraucht | alt
 16781982
 Mittelstand | Mittelklasse | Mittelschicht
 16781984
@@ -7295,7 +7295,7 @@ Mitte des Monats | zweites Drittel eines Monats
 16781985
 Verleumdung | Diffamierung | üble Nachrede
 16781987
-Mittelalter | (in Japan) Kamakura‑ bis Muromachi-Zeit | mittleres Alter
+Mittelalter | mittleres Alter
 16781988
 Geschlechtslosigkeit | Neutralität | Neutrum
 16781992
@@ -7951,7 +7951,7 @@ Splitter | Bruchstück | Scherbe
 16782803
 beschimpfen | schmähen | verleumden
 16782805
-Haiku (japanisches Gedicht mit einem Schema mit 5-7-5 Silben)
+Haiku
 16782807
 Abschaffung | Aufhebung | Beseitigung
 16782808
@@ -8399,7 +8399,7 @@ breit | weit | breit gefächert
 16783357
 Kleid | Kleidung | Anzug
 16783359
-Kleidung und Accessoires | Kleidungs‑ und Schmuckstücke
+Kleidungs‑ und Schmuckstücke
 16783360
 Kleidung
 16783362
@@ -8869,7 +8869,7 @@ Todestag | Jahrestag des Todes | monatliche Wiederkehr des Todestages
 16783927
 nächster | folgender
 16783928
-der nächste Tag | der folgende Tag
+der nächste Tag
 16783929
 Tagesanbruch
 16783935
@@ -9089,7 +9089,7 @@ Kapazität | Volumen | Rauminhalt
 16784184
 Wochentag
 16784189
-Bild im westlichen Stil | Ölgemälde | westlicher Film (im Gegensatz zu einem asiatischen Film)
+Bild im westlichen Stil | Ölgemälde | westlicher Film (im Ggs. zu einem asiatischen Film)
 16784190
 Zimmer im westlichen Stil
 16784191
@@ -9151,7 +9151,7 @@ Badezimmer | Bad
 16784251
 Badewanne
 16784252
-der nächste Tag | der folgende Tag
+der nächste Tag
 16784253
 das nächste Jahr | das folgende Jahr
 16784259
@@ -9469,7 +9469,7 @@ Nabel | Umbilicus | etw., das dem Nabel ähnelt
 16784602
 Schwiegervater
 16784604
-Erdbeere | Fragaria
+Erdbeere
 16784605
 kochen
 16784606
@@ -10493,7 +10493,7 @@ die ganze Nacht | über Nacht
 16785811
 Tag | Datum | Termin
 16785812
-täglich || tagaus, tagein
+täglich | tagein, tagaus
 16785813
 Tag um Tag | täglich (mehr) | von Tag zu Tag
 16785814
@@ -11527,7 +11527,7 @@ Wechsel auf eine höhere Schule
 16780935
 Fortschritt | Fortgang | Entwicklung
 16780941
-…er | …er inSuffix, um Ausdrücke auf Personen zu beziehen
+…er (zB Italiener)
 16780942
 Verwechslung von Personen
 16780951
@@ -11555,7 +11555,7 @@ Ausführung | Durchführung | Verwirklichung
 16781042
 Verehrung | Anbetung
 16781070
-Werk | Anfertigung | Produktion (eines Kunstwerkes, eines Filmes, einer Schallplatte etc.)
+Anfertigung | Produktion (eines Kunstwerkes, eines Filmes, einer Schallplatte etc.)
 16781080
 Eroberung | Unterwerfung | Überwindung
 16781093
@@ -11715,7 +11715,7 @@ Hinterhalt | Lauer | Falle
 16781695
 Erwartung | Erwarten | Ersehnen
 16781702
-(verwendet etwa wie) Guten Appetit! (den guten Appetit wünscht man den anderen; bei itadakimasu geht es darum, dass man von jmd. anderem – evtl. auch von einer höheren Macht – Essen empfängt und zeigt an, dass man selbst zu Essen anfängt) | Ich bin so frei! (im Sinne davon, dass man so frei ist, angebotenes Essen anzunehmen und zu essen)
+(verwendet etwa wie) Guten Appetit! | Ich bin so frei!
 16781703
 Aufenthalt
 16781704
@@ -11735,9 +11735,9 @@ Zählwort für Maschinen | Zählwort für Wagen
 16781732
 Grobheit | Oberflächlichkeit
 16781734
-(nicht) besonders | (nicht) sehr (es folgt Negation)
+(nicht) besonders | (nicht) sehr
 16781743
-GraduiertenabteilungMagister‑ und Doktorkurse an der Universität
+Magister‑ und Doktorkurse an der Universität (engl. graduate school)
 16781747
 große Eile | große Hast
 16781748
@@ -11929,7 +11929,7 @@ Keramik | Porzellan | Töpferware
 16782465
 Trunkenheit | Rausch | Verzückung
 16782466
-… Stück; Zählwort für große Tiere wie Rinder und Pferde bzw. Schmetterlinge und Seidenraupen
+… Stück; Zählwort für große Tiere wie Pferde bzw. Schmetterlinge und Seidenraupen
 16782469
 Steigerung
 16782498
@@ -12133,7 +12133,7 @@ Glaskonserve | Flaschenabfüllung
 16783187
 Unerwartetheit | Überraschung | Plötzlichkeit
 16783191
-Unerlässlichkeit | Unentbehrlichkeit | Notwendigkeit
+Unerlässlichkeit | Notwendigkeit
 16783197
 Unerfahrenheit | Unvertrautheit | Ungewohnheit
 16783202
@@ -12199,7 +12199,7 @@ Frieden | Ruhe | Stille
 16783489
 Schluss bzw. Schließung einer Versammlung
 16783493
-(geschälter, ungekochter) Reis | Reis | Oryza sativa
+(geschälter, ungekochter) Reis
 16783501
 Trennung | Trennung von Tisch und Bett | getrenntes Wohnen
 16783502
@@ -12299,7 +12299,7 @@ Reiz | Zauber | Faszination
 16783843
 ohne …
 16783848
-Indifferenz | Beziehungslosigkeit | Zustand, ohne Verwandte zu sein, die um einen trauern
+Indifferenz | Beziehungslosigkeit
 16783849
 Beziehungslosigkeit | Indifferenz
 16783854
@@ -12451,7 +12451,7 @@ Wald | Wäldchen | Forst
 16784411
 Träne | Gefühl
 16784414
-Analogie | Analogieschluss
+Analogie
 16784416
 Ausnahme
 16784434
@@ -12475,7 +12475,7 @@ Koexistenz | Leben-und-Leben-Lassen
 16784693
 neun | 9
 16784706
-(rötliche) Laubfärbung | rote Blätter | buntes Herbstlaub
+(rötliche) Laubfärbung | buntes Herbstlaub
 16784709
 Sackgasse! (Schildaufschrift)
 16784714
@@ -12603,7 +12603,7 @@ Wörterbuch
 16785200
 Sushi
 16785212
-Gegenseitigkeit | Wechselseitigkeit | Reziprozität
+Gegenseitigkeit | Wechselseitigkeit
 16785218
 Ergreifen der Initiative
 16785224
@@ -12633,7 +12633,7 @@ Reflexion | Spiegelung
 16785418
 Umzug | Umziehen
 16785427
-Alles-für-sich-Behalten | alleinige Beanspruchung
+alleinige Beanspruchung
 16785446
 deprimiert sein | betrübt sein
 16785447
@@ -12665,21 +12665,21 @@ Entdeckung | Aufdeckung | Enthüllung
 16785606
 anziehen | anhaben | an den Füßen tragen
 16785608
-(Zählwort für)Bündel
+(Zählwort für) Bündel
 16785610
 Nachkriegszeit | Zeit nach dem Krieg | Nachkriegs-…
 16785611
 Musikaufführung | Konzert | musikalische Darbietung
 16785613
-HeiseiÄrabez.: 8.1.1989–30.4.2019
+Heisei-Ära; 1989–2019
 16785651
 (die eigene) Mutti
 16785678
-kurz nach …
+fallen | sinken | nach unten gehen
 16785680
 Haufen wie ein Berg | Anhäufen zu einem Berg
 16785687
-Selbstbefragung | Sichselbstfragen | Fragestellung an sich selbst
+Selbstbefragung | Fragestellung an sich selbst
 16785702
 … entlang
 16785704
@@ -12742,3 +12742,2813 @@ Schulung | Training | asketische Übung
 schwer zu … | schwierig … | schlecht …
 16785988
 Parallelismus | Gleichlaufen
+16780775
+glauben | vertrauen | sicher sein | 
+16780776
+glauben; eher feierl. Konotation vgl. 信じる
+16780781
+Vertrauen | Glauben | Ruf
+16780782
+Verlass | Zuversicht | Vertrauen
+16780783
+einfallen | eindringen | überschreiten
+16780784
+Einfall | Invasion | unbefugtes Betreten
+16780786
+ins Bett bringen | einwiegen | liegen lassen
+16780787
+ins Bett bringen | einwiegen | liegen lassen
+16780788
+schlafen | ins Bett gehen | sich hinlegen
+16780791
+Schlafreden | unsinniges Gerede
+16780796
+sich im Bett umdrehen | zum Feind überlaufen | betrügen
+16780797
+Langschläfer | Verschlafen
+16780798
+Beratschlagung | Erörterung | Besprechung
+16780800
+Herz | Gemüt | Seele
+16780801
+Absicht | Überlegung | Haltung | Gesinnung
+16780802
+berücksichtigen | etw. im Auge haben | sich bemühen, etw. zu tun
+16780804
+ermutigend | aufmunternd | zuversichtlich
+16780805
+verlassen | unsicher | entmutigt | hilflos
+16780808
+Gefühl | Empfindung | Stimmung
+16780811
+Anweisung | Kenntnis | Erfahrung
+16780812
+wissen | verstehen | betrachten als …
+16780813
+Angst | Sorge | Kummer
+16780815
+Bedachtsamkeit | Umsicht | Sorgfalt
+16780816
+Schwingen | Schwenken | Schütteln | Schwung | Schlag
+16780817
+…weise | …art | nach … | seit ….
+16780819
+sich umwenden | sich umsehen | zurückblicken
+16780821
+schwingen | wedeln | streuen | zuweisen | abweisen
+16780822
+Förderung | Ermunterung
+16780825
+neu | frisch | zeitgemäß | modern
+16780830
+Neuheit | Neu…
+16780833
+Neuling | Nachwuchs | neues Mitglied
+16780837
+Zeitung
+16780842
+eintauchen | einweichen | eintunken | befeuchten
+16780843
+eingetaucht sein | geflutet sein | sich hingeben | schwelgen
+16780844
+tief | tiefgehend | dicht
+16780850
+beantragen | anmelden | vorschlagen | sich bewerben
+16780851
+sich melden | sich anmelden | vorschlagen | beantragen
+16780852
+sagen | erzählen | bemerken | meinen
+16780853
+Entschuldigung | Ausrede | Erklärung
+16780855
+Angabe | Erklärung | Deklaration
+16780856
+Gesuch | Bitte | Antrag
+16780857
+Wahrheit | Reinheit | Echtheit | Tatsache
+16780860
+Hochrot | Knallrot | Unverfrorenheit (einer Lüge)
+16780866
+Mein Güte! | Auf keinen Fall! | Ausgeschlossen!
+16780869
+Nachahmung | Imitation | Verhalten
+16780871
+Wahrheit | Wirklichkeit | wirklich | tatsächlich 
+16780875
+Ernst | Ernsthaftigkeit | Aufrichtigkeit
+16780878
+Gott | Gottheit
+16780883
+Essenz | Inbegriff | wahres Wesen
+16780891
+Eltern
+16780892
+freundschaftlich | vertraut | eng
+16780893
+befreundet sein | sich anfreunden | vertraut sein (mit etw.)
+16780899
+Freundlichkeit | Güte | Wohlwollen
+16780905
+Freundschaft | Intimität
+16780906
+enger Freund
+16780912
+Körper | Person | man selbst
+16780915
+Schicksal | Zukunft | Umstände
+16780918
+jmds. Identität | jmds. Herkunft | jmds. Charakter
+16780919
+Gebärde | Geste
+16780922
+Verwandtschaft | Verwandte | Gefolgschaft
+16780923
+soziale Stellung | Rang | Identität
+16780925
+scharf | stark gewürzt
+16780926
+bitter | schmerzlich | mühsam | schwierig
+16780928
+vorwärts gehen | voranschreiten | Fortschritte machen
+16780929
+vorwärts bewegen | fördern | vorantreiben
+16780930
+Evolution
+16780932
+Vorwärtskommen | Fortschritt
+16780934
+Eintreten | Einfliegen | Anflug
+16780936
+Route | Weg | Richtung
+16780937
+Nadel | Stachel | Zeiger
+16780939
+zittern | beben | frösteln
+16780944
+Mensch | Person | Menschheit
+16780946
+Beliebtheit | Volksstimmung | Geschäftslage
+16780947
+Puppe | Marionette | Person ohne eigene Ansicht
+16780949
+Schüchternheit | Menschenscheu
+16780952
+Begabter | Befähigter | Personal
+16780957
+(menschliche) Rasse | Sorte Mensch
+16780961
+menschliches Leben
+16780964
+Gesichtszüge | Visage
+16780970
+Person | Mensch | Charakter
+16780973
+Volk | Bürger
+16780978
+Staub | Schmutz | Müll
+16780980
+befragen | sich erkundigen | suchen | forschen
+16780982
+höchst | äußerst | außerordentlich
+16780984
+erschöpfen | aufbrauchen | sich anstrengen
+16780986
+Illustration | Entwurf | Diagramm | Karte
+16780993
+hineinblasen | einflößen | einspielen (Platte) | einreden
+16780994
+blasen | wehen
+16780995
+Schneesturm
+16780996
+tropfen lassen | verschütten | herabhängen lassen
+16780997
+herunterhängen | tief hängen | tropfen
+16780999
+Antrieb | Vorantreiben
+16781001
+Vermutung | Mutmaßung | Annahme
+16781002
+Schlussfolgerung
+16781003
+Schlussfolgerung | Schlussfolge
+16781005
+Ausarbeitung | Ausfeilen | Überarbeitung
+16781006
+Wasser
+16781014
+Verdünnung | Strecken
+16781017
+unter Wasser | Unterwasser…
+16781021
+Wasserversorgung | Kanal | Wasserstraße
+16781022
+enthaltenes Wasser | Nässe | Feuchtigkeit
+16781032
+schwächer werden | schwinden | verfallen
+16781034
+am Ende | endlich | schließlich
+16781036
+betrunken werden | berauscht sein | sich schlecht fühlen
+16781040
+ziemlich | wirklich | schrecklich | sehr
+16781045
+Zahl | Ziffer
+16781048
+Küken | Vogeljunges | Grünschnabel
+16781049
+stellen | aufstellen | montieren | festsetzen
+16781051
+Feldsperling | geschwätzige Person
+16781052
+unterer Saum eines Kleidungsstückes | unterer Teil von etwas
+16781054
+Maß | Größe | Abmessung | Plan
+16781055
+Welt | Gesellschaft | Zeiten
+16781056
+Welt | Erdkugel | Universum
+16781057
+Allgemeinheit | Öffentlichkeit | Leute
+16781059
+Zustand der Welt | soziale Verhältnisse
+16781062
+Hilfe | Beistand | Pflege | Mühe
+16781063
+Porzellan | Keramik | Töpferware
+16781064
+wogen | wallen | sich winden
+16781066
+Recht und Unrecht | auf jeden Fall | ganz gewiss
+16781067
+unheimlich | wahnsinnig | großartig
+16781068
+Begrenzung | Einschränkung
+16781069
+Bestrafung | Sanktion | Maßregel
+16781071
+Aufhaltung | Zurückhaltung | Kontrolle
+16781072
+Verordnung | Aufstellung | Errichtung
+16781073
+System | Institution | Organisation
+16781075
+Einschränkung | Limitierung | Bedingung
+16781076
+Kraft | Vitalität | Macht | Einfluss
+16781077
+Einfluss | Macht | Prestige
+16781081
+Natur | …heit/…keit etc. | Sex | Geschlecht
+16781082
+Persönlichkeit | Wesen | Charakter
+16781084
+Natur | Eigenschaft | Qualität
+16781085
+geschlechtlich | sexuell | Geschlechts…
+16781086
+Leistungsfähigkeit | Leistung | Wirkungsgrad
+16781089
+bestehen aus … | standhalten
+16781090
+werden | sich entwickeln zu … | bestehen aus
+16781092
+Erfolg | Ergebnis | Errungenschaft
+16781096
+Leistung | Erfolg | Note
+16781097
+Wachstum | Entwicklung
+16781098
+in der Tat! | genau! | aha!
+16781101
+Zustandekommen | Entstehung | Vollendung
+16781106
+Politik | Regierung
+16781120
+klarer Himmel | heiterer Himmel
+16781121
+Gerechtigkeit | Normalität | Vollständigkeit
+16781129
+Neujahr | Neujahrsfeiertage | Januar
+16781147
+Erziehung | Aufziehen | Kindheit
+16781148
+wachsen | sprießen | ausschlagen
+16781152
+wieder zum Leben erwachen | wieder aufleben
+16781153
+erzeugen | hervorbringen | hervorrufen
+16781154
+erzeugen | hervorbringen | hervorrufen
+16781156
+gebären | ins Leben rufen | hervorbringen
+16781162
+Leben | Alltagsleben | Existenz
+16781166
+fischig | nach Fisch riechend | verdorben
+16781172
+Stoff | Kleiderstoff | noch unglasierte Keramik
+16781178
+Leben | Leib und Leben | Existenz
+16781182
+anhäufen | aufhäufen | aufschütten
+16781189
+Vertrautheit | Beschlagenheit | gute Kenntnis
+16781199
+Produkt | Erzeugnis | Fabrikat
+16781203
+Westeuropa | Abendland
+16781205
+Abendland | Europa
+16781207
+gregorianischer Kalender | christliche Zeitrechnung
+16781211
+schwören | beteuern | geloben
+16781218
+Frühling des Lebens | Jugendzeit | Frühling
+16781219
+Jugendlicher | junger Mann | junge Frau
+16781220
+bleich | blass | fahl
+16781243
+sich anhäufen | sich ansammeln | liegen
+16781250
+Säugling | Baby | Kleinkind
+16781251
+rote Zahlen | Defizit | Fehlbetrag
+16781264
+Karte | Fahrkarte | Eintrittskarte
+16781271
+Gelegenheit | Zeit | Zeitpunkt
+16781287
+Meinung | Ansicht | Theorie
+16781295
+ununterbrochen | ständig | ohne Unterbrechung
+16781324
+Wahrsagen | Weissagung | Prophezeiung
+16781334
+Direktor | Hauptgeschäftsverwalter | spezielle Aufgabe
+16781342
+Panzer | Panzerwagen
+16781360
+sich färben | durchtränkt werden | angesteckt werden
+16781361
+Fleck | Klecks
+16781363
+färben | einfärben | den Anfang machen
+16781373
+Gleis | Bahnlinie | Linie
+16781375
+Feinheit | Zartheit | Zierlichkeit
+16781377
+Kapitän | Schiffskapitän | Schiffsführer
+16781391
+die erste Jahreshälfte | das Sommersemester | das vergangene Halbjahr
+16781400
+Hypothese | Annahme | Vermutung
+16781409
+gute Absicht | guter Sinn | guter Wille
+16781412
+völlig | gänzlich | ganz
+16781413
+alle | alle Beteiligten | die ganze Besatzung
+16781423
+alles umfassend | allseitig | universal
+16781431
+dünn | spärlich | schütter
+16781444
+Laie | Dilettant | Amateur
+16781446
+schnell | geschwind | rasch
+16781450
+zusammensetzen | kombinieren | zusammenfügen
+16781451
+hineinschöpfen | hereingießen | aufnehmen
+16781452
+zusammensetzen | zusammenbasteln | montieren
+16781460
+hindern | verhindern | behindern
+16781461
+gegen den Strom fahren | flussaufwärts gehen
+16781469
+Speicher | Magazin | Lager
+16781484
+früh sein | fortgeschritten sein | voreilig sein
+16781490
+sofort | jetzt gleich | im Augenblick
+16781495
+ausgelassen sein | in guter Stimmung sein | toben
+16781501
+angemessen | entsprechend | passend
+16781514
+Schalter | Fahrkartenschalter | Schalterbeamter
+16781523
+Wiesenblume | Blume | blühende Pflanze
+16781540
+Frost | Reif | Raureif
+16781546
+Unruhe | Streit | Aufruhr
+16781562
+Seite | Nähe | Nachbarschaft
+16781569
+Sohn | jmds. Junge
+16781579
+reichen | ausreichen | genug sein
+16781589
+Umgangssprache | salopper Ausdruck | vulgärer Ausdruck
+16781590
+dazugehören | angehören
+16781596
+wie es ist | einfach so | im ursprünglichen Zustand
+16781597
+dann | in diesem Fall | wenn das so ist
+16781620
+viel | zahlreich | groß
+16781622
+viel oder wenig | mehr oder weniger | etwas
+16781623
+Vielzahl | Mehrzahl | große Anzahl
+16781624
+viel | groß | beträchtlich
+16781638
+abschießen | hochschießen | abbrennen
+16781645
+Riemen | Ruder | Steuer
+16781648
+Leibeserziehung | Sport | Gymnastik
+16781652
+Form | Gestalt | Figur
+16781658
+System | Ordnung | Verfassung
+16781664
+Gestalt | Körperhaltung | Haltung
+16781667
+gegen | wider | gegenüber
+16781674
+Kontrast | Gegensatz | Antithese
+16781684
+nicht warten können | ersehnen | sehnsüchtig erwarten
+16781685
+sich in Bereitschaft halten | bereit sein
+16781697
+nachlässig sein | faul sein
+16781699
+absichtlich | vorsätzlich
+16781701
+Einstellung | Haltung | Verhalten
+16781721
+Entschädigung | Schadenersatz | Preis
+16781738
+Meister | Autorität | reiche Familie
+16781742
+Universität | Hochschule | Akademie
+16781746
+Größe | Großmut | Großherzigkeit
+16781749
+großes Format | Großformat | Groß…
+16781753
+großes Land | mächtiges Land
+16781754
+Rettich | Schmierenschauspieler
+16781775
+großer Lärm | großer Tumult
+16781796
+Stuhlgang | Stuhl | Kot
+16781798
+Kanone | großkalibriges Gewehr | sehr guter Schlagmann
+16781805
+Bauland | Baugrundstück
+16781807
+viel | viele | zahlreich
+16781809
+sich trüben | unrein werden
+16781811
+schlagen | hauen | klopfen
+16781831
+Einheit | Maßeinheit | Messwert
+16781838
+Klage | Jammer | Gram
+16781844
+Pfand | Sicherheit | Hypothek
+16781845
+suchen | tasten | tappen
+16781856
+Schwäche | schwache Seite | Fehler
+16781860
+aufgehen | sich aufräufeln (Naht) | sich öffnen (Blüte)
+16781861
+sich etw. hingeben | sich ergeben | schwelgen in
+16781870
+Podium | erhöhter Platz | Bühne
+16781871
+schnippen | schnellen | abstoßen
+16781878
+Aussterben | Erlöschen | Untergang
+16781886
+Programm | Plan | Arrangement
+16781887
+Absatz | Abschnitt | Paragraph
+16781894
+männliche Erscheinung | männliche Haltung
+16781906
+Kenntnis | Wissen | Gelehrsamkeit
+16781910
+Intelligenz | Geisteskraft | intellektuelle Fähigkeit
+16781912
+Stellung | Rang | Position
+16781920
+lokal | örtlich | Orts…
+16781926
+Karte | Landkarte | Plan
+16781933
+Erdoberfläche | Erde | Boden
+16781942
+tödlich | todbringend | lebensgefährlich
+16781948
+errichten | bauen | aufbauen; aus Steinen und Erde; z. B. einen Damm
+16781949
+Mist! | Verdammt! | Hol’s der Teufel!
+16781952
+Ordnung | Recht und Ordnung | System
+16781964
+Färben | Färbung | Kolorit
+16781972
+China | Reich der Mitte | chinesische Küche
+16781983
+Aufhebung | Aufhören | Einstellung
+16781989
+Unterbrechung | Abbruch | Aufhören
+16782007
+in Frieden und Eintracht | auf freundlichem Fuße
+16782011
+Verlosung | Losziehung | Ziehung
+16782037
+Billion
+16782038
+welken | verwelken | schrumpfen
+16782045
+Bildhauerei | Schnitzerei | Plastik
+16782048
+schlimme Erfahrungen gemacht haben | aus etw. lernen
+16782057
+Ebbe und Flut | Gezeiten | Salzwasser
+16782086
+ruhig | still | friedlich
+16782089
+Stärke | starke Seite | bessere Eigenschaft
+16782120
+versenken | untertauchen | in die Tiefe sinken lassen
+16782123
+ungewöhnlich | selten | rar
+16782130
+überholen (klassisches Überholmanöver)
+16782133
+überholen (ohne eig. Kurswechsel, z.B. auf der Nebenspur)
+16782139
+Postskriptum | P.S.
+16782143
+Ausweisung | Verbannung | Ausschluss
+16782155
+Währung | kursierendes Geld | umlaufendes Geld
+16782172
+eintauchen | einweichen | einlegen
+16782189
+Tiefdruck | niedriger atmosphärischer Druck | Zyklone
+16782204
+Zeitfahrkarte | Dauerkarte
+16782210
+Altersgrenze | Pensionsalter
+16782214
+Garten | Landschaftsgarten | Ziergarten
+16782251
+ertrinken | ersaufen | sich ergeben
+16782266
+Himmel
+16782272
+Paradies | Himmelreich
+16782273
+Genie | Genialität | Genie
+16782277
+Spitze | Gipfel | Scheitel
+16782298
+brennen | angehen | Feuer fangen
+16782309
+Tradition | Überlieferung | Brauch
+16782313
+Land (im Ggs. zur Stadt) | ländliches Gebiet | Provinz
+16782331
+Telefon | Anruf
+16782334
+jedenfalls | auf jeden Fall
+16782335
+abgesehen von | auf jeden Fall | jedenfalls
+16782337
+atmen | Atem holen | ausspucken
+16782363
+Grad | °C | …mal
+16782365
+Erde | Boden | Schlamm
+16782366
+blanker Erdboden | ungedielter Boden
+16782371
+Grundstück | Baugrund | Grund
+16782374
+Kerl | Bursche | Prachtkerl
+16782375
+Zorn | Ärger | Entrüstung
+16782380
+Konkurs | Bankrott | Insolvenz
+16782394
+trauern | betrauern | klagen
+16782395
+werfen | schmeißen | hinwerfen
+16782399
+Beschwerdebrief | Meinungsbrief | Leserbrief
+16782402
+Osten | Ost… | östlich
+16782406
+Ferner Osten | Morgenland | Orient
+16782407
+Pfirsich | Pfirsichbaum
+16782422
+betroffene Person | involvierte Person
+16782423
+zu jener Zeit | damals | derzeit
+16782427
+natürlich | selbstverständlich | gerecht
+16782435
+Antwort | Erwiderung | Entgegnung
+16782447
+schließlich | am Ende | überhaupt
+16782455
+die Beine spreizen | fest stehen | standhalten
+16782476
+sich beunruhigen | ängstlich sein | aufgeregt sein
+16782479
+Motiv | Motivation | Antrieb
+16782482
+Verb | Verbum | Zeitwort
+16782499
+Genosse | Kamerad | Gleichgesinnter
+16782507
+Kommilitonenverein | Klassentreffen | Alumniverein (Universität)
+16782511
+gleich | identisch | ebenso
+16782516
+Sehnsucht | Sehnen | Verehrung
+16782523
+Rumpf | Körper | Torso
+16782529
+Vernunft | Grund | Recht
+16782536
+gewinnen | erwerben | bekommen
+16782553
+besonders | speziell | Sonder…
+16782556
+Glatzköpfigkeit | Kahlköpfigkeit | Glatzköpfiger
+16782558
+Gift | Toxikum | Schaden
+16782573
+Aussprache | Lesung | Auslegung
+16782602
+Nebenbeschäftigung | Nebenerwerb
+16782603
+Innerstes | verborgenste Gedanken
+16782607
+Innenseite | das Innere
+16782608
+Inhalt | Gehalt | Enthaltene
+16782613
+Seil | Tau | Strick
+16782618
+weich | sanft | zart
+16782620
+schwierig | schwer | heikel
+16782635
+lebhaft | laut | gesellig
+16782636
+belebt sein | gut frequentiert sein | gedeihen
+16782643
+Sonne | Sonnenlicht | Sonnenstrahl
+16782649
+Tagespensum | täglicher Arbeitsturnus
+16782658
+Datum und Zeit | Termin | Datum
+16782670
+Wetter | schönes Wetter | günstiges Wetter
+16782673
+hineingehen | eintreten | hineinkommen
+16782683
+Betreten eines Zimmers
+16782687
+Eintritt | Zutritt | Einlass
+16782696
+als ob | ähnlich aussehen | ähneln
+16782697
+wieso | warum | weshalb
+16782703
+Amtspflicht | Arbeit | Amt
+16782711
+nass machen | anfeuchten | befeuchten
+16782719
+erwärmen | heiß machen | sich erhitzen
+16782720
+Eifer | Enthusiasmus | Lust
+16782726
+leidenschaftlich | begeistert | feurig
+16782740
+höheres Alter | Großen | Ältesten
+16782744
+Jahresring | Jahrring | Wachstumsring
+16782755
+Klebrigkeit | Zähflüssigkeit | Schleimigkeit
+16782771
+Leistungsfähigkeit | Effektivität | Effizienz
+16782781
+Ackerland | Ackerboden | Boden
+16782784
+gucken | blicken | anschauen
+16782806
+Schauspieler | Darsteller | Narr
+16782809
+anbeten | beten | verehren
+16782813
+Ausschluss | Ausschließung | Wegschaffung
+16782815
+Ablehnung | Ausschließung | Vertreibung
+16782831
+Gatte | Gemahl | Ehemann
+16782848
+verkaufen | vertreiben | sich verkaufen
+16782849
+zum Verkauf anbieten | auf den Markt bringen | feilbieten
+16782872
+jmdn. beherbergen | unterbringen
+16782899
+Korn | Getreide | Weizen
+16782902
+Haut | Oberfläche | Charakter
+16782928
+Einfall | Idee | Konzeption
+16782931
+Anfang | Beginn | Ursprung
+16782944
+Strafe | Bestrafung | Züchtigung
+16782946
+bestrafen | mit einer Strafe belegen
+16782952
+wegschleichen | verschwinden | weglaufen
+16782965
+Hälfte | zur Hälfte | Mitte
+16782978
+sich biegen | sich krümmen | sich winden
+16782980
+Abneigung | Widerwille | Antipathie
+16782981
+Echo | Resonanz | Widerhall
+16782991
+Reaktion | Gegenwirkung | Gegenstoß
+16782995
+Aufstand | Rebellion | Aufruhr
+16783000
+Holzschnitt | Linolschnitt | Kupferstich
+16783018
+Hausnummer | Straßennummer | Grundstücksnummer
+16783032
+er | sie | der da
+16783034
+dort drüben | das da drüben | Ausland
+16783035
+traurig | betrübt | unglücklich
+16783041
+Schrei | Aufschrei | Schmerzensschrei
+16783050
+Verhältnis | Prozentsatz | Proportion
+16783052
+Müdigkeit | Ermüdung | Erschöpfung
+16783054
+Ermüdung | Müdigkeit | Erschöpfung
+16783068
+Schadennehmen | Erleiden eines Schadens | Schädigung
+16783071
+aufwenden | investieren | (Geld) ausgeben
+16783078
+Notfall | Ausnahmefall | Katastrophe
+16783083
+abfliegen | hinauslaufen | weglaufen
+16783090
+Schwanz | Rute | Schweif
+16783099
+Kunst | die schönen Künste | bildende Kunst
+16783102
+Schönheit | Schöne | schönes Mädchen
+16783110
+gewiss | sicher | ohne Zweifel
+16783133
+Wassereis | Eis | Splittereis
+16783138
+Tabelle | Liste | Grafik
+16783155
+Krankenhaus | Klinik | Hospital
+16783164
+Sämling | Keimling | Pflänzling
+16783190
+Unbegreiflichkeit | Rätselhaftigkeit | Mysteriösität
+16783203
+Rezession | Depression | Geschäftsflaute
+16783212
+schlechte Ernte | magere Ernte | Missernte
+16783242
+Unzufriedenheit | Missmut | Missfallen
+16783273
+reich sein | vermögend sein | reich werden
+16783278
+Angst haben | sich fürchten | erschrecken
+16783288
+schwimmen lassen | treiben lassen | zeigen
+16783289
+sich erfreuen | sich amüsieren | lustig sein
+16783290
+leichtherzig | flott | lustig
+16783294
+Obdachloser | Landstreicher | Herumtreiber
+16783311
+Beleidigung | Beschimpfung | Kränkung
+16783313
+streicheln | streichen
+16783314
+Waffe | Zeug | Militär
+16783316
+Waffengewalt | militärische Gewalt
+16783317
+tanzen | flattern | fliegen
+16783325
+Ersatzteile | Zubehör
+16783334
+Landschaft | Aussicht | Ausblick
+16783336
+Satire | Persiflage | Anspielung
+16783383
+Neugier | Neugierde | Laune
+16783384
+Lineal | Metermaß | Maßstab
+16783387
+Stoff | Substanz | Materie
+16783392
+Rumpelkammer | Abstellkammer | Schuppen
+16783401
+Auseinandergehen | Dispersion | Zerstreuung
+16783411
+Bereich | Gebiet | Fach
+16783424
+ablenken | abbringen | abwenden
+16783429
+Atmosphäre | Flair | Ambiente
+16783450
+Schreibwaren | Papierwaren
+16783455
+Zuhörer | Hörer | Rezipient
+16783456
+aber | jedoch | doch
+16783473
+Alltäglichkeit | Mittelmäßigkeit | Durchschnitt
+16783477
+Übel | Schaden | übler Zustand
+16783478
+Handgriff | Griff | Stiel
+16783488
+schließen | zuschließen | zumachen
+16783496
+Mauer | Wand | Barriere
+16783498
+Unterscheidung | Unterschied
+16783499
+anders | unterschiedlich
+16783512
+Deformation | Verformung | Umformung
+16783517
+Verwandlung | Transformation | Umgestaltung
+16783540
+Bequemlichkeit | Annehmlichkeit | Zweckmäßigkeit
+16783553
+Bentō | O-Bentō | Imbiss zum Mitnehmen
+16783560
+Aufbewahrung | Gewahrsam | Verwahrung
+16783564
+Erziehungsberechtigter | Beschützer | Schirmherr
+16783575
+zugehen auf | sich annähern | aufeinander zugehen
+16783578
+Verhältnis | Prozentsatz | Provision
+16783584
+Ergänzung | Ersatz | Ersetzung
+16783588
+Verbesserung | Berichtigung | Korrektur
+16783589
+Ergänzung | Vervollständigung | Zusatz
+16783609
+berichten | melden | benachrichtigen
+16783624
+loslassen | entlassen | entbinden
+16783625
+loslassen | freilassen | abfeuern
+16783648
+Gesetze und Verordnungen | Gesetzgebung
+16783652
+gesetzlich | legal | juristisch
+16783661
+besuchen | einen Besuch machen | aufsuchen
+16783669
+versterben | sterben | entschlafen
+16783681
+Liegengelassenes | Vergessenes | Fundsache
+16783686
+wüten | toben | Radau machen
+16783691
+Gewalt | rohe Gewalt | physische Gewalt
+16783693
+Wunsch | Sehnsucht | Hoffnung
+16783697
+wagen | riskieren | heimsuchen
+16783702
+Ausdehnung | Expansion | Ausbreitung
+16783723
+fast ganz | fast alle | fast
+16783727
+wahre Absicht | eigentliches Motiv | wahre Gesinnung
+16783733
+beste Gegend | Hauptproduktionsort | Heimat
+16783736
+Hauptstrecke | diese Strecke | diese Linie
+16783737
+Substanz | Hauptteil | Körper
+16783739
+Hauptgeschäft | Hauptniederlassung | Zentrale
+16783746
+Hauptverwaltung | Hauptbüro | Zentrale
+16783754
+Becken | Mulde | Senke
+16783756
+reiben | scheuern | schleifen
+16783759
+Zauberei | Magie | Hexerei
+16783760
+Zauberei | Zauberkunst | Magie
+16783763
+vergraben | beerdigen | ausfüllen
+16783775
+jeder Abend | allabendlich
+16783776
+Kopfkissen | Kissen | Kopfende
+16783790
+füllen | erfüllen | ergänzen
+16783791
+Überfüllung | Vollbesetztheit
+16783795
+Manga | Cartoon | Comic
+16783801
+Freund | Beistand | Anhänger
+16783813
+Nachhängen | Festhalten | Nachtrauern
+16783838
+Träumerei | Tagtraum | Fantasie
+16783839
+Hingerissenheit | Begeisterung
+16783871
+Funk | Radio | schnurlos
+16783881
+Unfähigkeit | Unvermögen | Machtlosigkeit
+16783903
+Namensschild | Türschild | Namensplatte
+16783910
+Meister | Experte | Virtuose
+16783915
+berühmtes Produkt | Spezialität (einer Gegend)
+16783917
+Name | Titel | Bezeichnung
+16783920
+Leben | Lebenskraft | Lebensspanne
+16783921
+befehlen | anordnen | einen Befehl erteilen
+16783922
+befehlen; eher altmodisch, vgl. 命じる
+16783933
+Deutlichkeit | Bestimmtheit | Ausdrücklichkeit
+16783952
+Untergang | Zusammenbruch | Ruin
+16783953
+Erlaubnis | Lizenz | Genehmigung
+16783958
+gegenüberstehen | gegenüberliegen | hinausgehen auf …
+16783980
+Blinddarm | Caecum | Zäkum
+16783981
+blinder Fleck | Skotom | Gesichtsfelddefekt
+16783982
+Netz | Drahtnetz | Falle
+16783994
+Markierung | Orientierungspunkt | Kennzeichen
+16784003
+Ziel | Absicht | Plan
+16784009
+Ziel | Zielscheibe | Angriffsziel
+16784018
+plausibel | glaubhaft | schlüssig
+16784041
+Wildheit | wilde Natur | Natürlichkeit
+16784047
+viel | massenhaft | leichtsinnig
+16784056
+Aufgabe | Rolle | Funktion
+16784066
+tanzen | sich tanzend bewegen
+16784084
+Überlegenheit | Übermacht | Oberhand
+16784089
+Mut | Courage | Kühnheit
+16784090
+Freund | Gefährte | Kamerad
+16784096
+Gespenst | Geist | Spuk
+16784098
+Tatsache | die Dinge, wie sie sind
+16784099
+alltäglich | geläufig | gängig
+16784106
+Gültigkeit | Geltung | Wirkung
+16784132
+letzte Nacht | gestern Abend | gestern Nacht
+16784135
+Abendessen
+16784141
+im Voraus | eher | früher
+16784148
+Annahme | Erwartung | Hoffnung
+16784155
+Vorbeugung | Verhütung | Prävention
+16784158
+übrig bleiben | übrig sein | überschreiten
+16784163
+Raum | Platz | Spielraum
+16784169
+anvertrauen | betrauen | zur Aufbewahrung geben
+16784171
+jung | klein | kindlich
+16784187
+Muster | Stil | Form
+16784188
+Anblick | Aussehen | Bild
+16784206
+Gerät | Apparat | Utensil
+16784212
+vorsichtig | behutsam | umsichtig
+16784213
+Verwendungszweck | Verwendungsmöglichkeit
+16784219
+erforderlich sein | brauchen | nötig haben
+16784224
+das Wesentliche | Kern | Hauptinhalt
+16784226
+Element | Faktor | Hauptbestandteil
+16784238
+Unterdrückung | Unterjochung | Repression
+16784244
+wollen | wünschen | mögen
+16784245
+Bedürfnis | Verlangen | Begierde
+16784264
+verlässlich | zuverlässig | vertrauenswürdig
+16784278
+Gewalttätigkeit | Rücksichtslosigkeit | Rohheit
+16784280
+Ei | Laich | Hühnerei
+16784281
+Sturm | Sturmwind | Unwetter
+16784297
+Vorstandsmitglied | Vorstand | Direktor
+16784303
+Hintertür | Hintereingang
+16784304
+verraten | hintergehen | betrügen
+16784316
+Armee | Heer | Landheer
+16784338
+verkürzen | abkürzen | auslassen
+16784350
+anhäufen | sammeln | sparen
+16784351
+sich ansammeln | sich anhäufen | stagnieren
+16784369
+beide | beide Seiten | beides
+16784377
+kühl | frisch | erfrischend
+16784383
+Menge | Quantität | Volumen
+16784393
+stark | kräftig | kraftvoll
+16784398
+Sittlichkeit | Ethik | Moral
+16784404
+Todesstunde | jmds. letzes Stündchen
+16784408
+Nachbarschaft | Nähe | Haus nebenan
+16784419
+Beispielsatz | Belegsatz | Mustersatz
+16784425
+seinen Spaß treiben | sich lustig machen | necken
+16784426
+kühlen | kaltstellen | abkühlen
+16784427
+Gefühllosigkeit | Herzlosigkeit | Grausamkeit
+16784437
+sich bemühen | sich widmen | sich anstrengen
+16784449
+Geschichte | Historie | Annalen
+16784454
+nachstehen | zurückstehen | unterlegen sein
+16784458
+lieb | geliebt | teuer
+16784460
+geliebte Person | Geliebter | Liebster
+16784462
+kneten | zurichten | (einen Entwurf etc.) ausarbeiten
+16784473
+Leute | Gesellen | Clique
+16784478
+Tau | Wenigkeit | Geringheit
+16784480
+freundlich behandeln | gut behandeln | trösten
+16784482
+Anstrengung | Mühe | Bemühung
+16784489
+durchsickern lassen | durchkommen | lecken
+16784500
+argumentieren | einen Beweis führen | diskutieren
+16784523
+Gesprächsstoff | Gesprächsgegenstand | Gesprächsthema
+16784524
+beköstigen | versorgen | verpflegen
+16784534
+Arm | Leistung | Fähigkeit
+16784536
+Können | Geschick
+16784538
+Armkraft | Körperkraft | Stärke
+16784540
+andeuten | zu verstehen geben | merken lassen
+16784544
+sich anlehnen | sich stützen | sich verlassen
+16784546
+murmeln | flüstern | tuscheln
+16784549
+etw. riechen | beschnüffeln | beschnuppern
+16784551
+spotten | verhöhnen | verspotten
+16784552
+wie sehr | sicherlich | wohl
+16784570
+sich nicht einigen können | sich auseinandersetzen | sich reiben
+16784580
+durchsickern | heraussickern | auslaufen
+16784582
+tragbarer Kocher | Gaskocher | Holzkohlekocher
+16784584
+jucken | kitzeln | kribbeln
+16784585
+einschlafen | gefühllos werden | gelähmt werden
+16784587
+Falte | Runzel | Krähenfüße
+16784607
+Rose | Rosenstock | Rosenstrauch
+16784622
+stolpern | straucheln | den Halt verlieren
+16784625
+Schere | Knipszange | Knipser
+16784639
+Beschimpfung | Beleidigung | Verleumdung
+16784647
+ein Tag | eines Tages | ein voller Tag
+16784655
+Dämmerung | Abenddämmerung | Zwielicht
+16784658
+Ton | Schall | Laut
+16784665
+jederzeit | zu jeder Zeit | immer
+16784676
+Rohr | Röhre | Blasinstrument
+16784681
+Aussetzen | Verstoßen (eines Kindes) | ausgesetztes Kind
+16784690
+bedrohen | einschüchtern | erpressen
+16784691
+beängstigen | einschüchtern | bedrohen
+16784697
+antiquarisches Buch | gebrauchtes Buch | Buch aus zweiter Hand
+16784698
+Bestehen (auf der eigenen Meinung oder Einstellung) | Beharren | Festhalten
+16784710
+Kommen und Gehen | Verkehr | Beziehung
+16784713
+wohlriechend | duftend | aromatisch
+16784723
+Seele | Geist | Leben
+16784738
+Tanabata | Sternenfest (am 7. Juli; Abk.)
+16784763
+Gemüt | Gemütsbewegung | Gefühl
+16784770
+Leute | Menschen | jeder
+16784775
+Nummer | Zahl | Schicksal
+16784776
+kürzlich | neulich | vor Kurzem
+16784782
+einmal | einstmals | vormals
+16784787
+anderer | Fremder | andere Leute
+16784805
+Feind | Gegner | Rivale
+16784808
+Geschäft | Laden | Restaurant
+16784836
+wegziehen | abziehen | häuten
+16784846
+meiden | vermeiden | umgehen
+16784854
+herabsehen | verachten | missachten
+16784858
+Schriftstück | Aufzeichnung | Schrift
+16784865
+einwickeln | einschlagen | einhüllen
+16784877
+begraben werden | verschüttet werden | angefüllt sein
+16784924
+müde werden | satt haben | einer Sache überdrüssig werden
+16784932
+warm | mild | finanziell gut versorgt
+16784941
+Strickerei | Stricken | Häkeln
+16784944
+wild | heftig | rau
+16784946
+alles Mögliche | alle | jede
+16784956
+sich verbreiten | sich ausbreiten | durchdringen
+16784968
+Einsetzen eines falschen Zahnes | künstlicher Zahn
+16784969
+Behälter | Gefäß | Etui
+16784976
+Zuständigkeit | Betreuung | Aufsicht
+16784982
+kopieren | abschreiben | abzeichnen
+16784993
+Hals | Nacken | Genick
+16785001
+Schmuckgegenstand | Ziergerät | Tafelaufsatz
+16785002
+Geschenk | Gabe | Präsent
+16785040
+Lautsprecher | Megaphon | Megafon
+16785057
+Blumenbeet | Beet
+16785066
+dürrer Baum | abgestorbener Baum
+16785067
+welkes Laub | dürres Laub
+16785077
+Perfektion | Vollkommenheit | Fehlerlosigkeit
+16785079
+Hungersnot | Nahrungsmittel-Knappheit
+16785080
+wirksam sein | Wirkung zeigen
+16785082
+Furcht | Befürchtung | Besorgnis
+16785083
+Ursprung | Anfang | Quelle
+16785085
+Vorzeichen | Anzeichen | Symptom
+16785088
+Gelegenheit | Anlass | günstiger Augenblick
+16785116
+Masse | Menge | Menschenmenge
+16785122
+Element (Erde, Luft, Feuer, Wasser) | chemisches Element
+16785124
+Kreuzung | Straßenkreuzung
+16785126
+Ablösung | Abwechselung | Wechsel
+16785127
+Einzelhandel | Kleinhandel
+16785133
+eine Botschaft senden | benachrichtigen
+16785134
+Lamm | Schäflein
+16785135
+überfüllt sein | sich drängen | hereinkommen
+16785136
+sich einschließen | sich zurückziehen | gefüllt sein mit …
+16785142
+suchen | nachschauen | nachschlagen
+16785148
+baggern | ausbaggern | ausschaufeln
+16785166
+Leistungsschutzschalter | LS-Schalter
+16785191
+Verschönerung | Ausschmückung | Verzierung
+16785193
+langsam | nach und nach
+16785208
+soweit wie nur möglich | möglichst
+16785210
+Spitze | Front | Erster
+16785219
+Aufrichtigkeit | Offenheit | Offenherzigkeit
+16785223
+einer nach dem anderen | hintereinander
+16785236
+Eintrittsverbot | Betreten verboten!
+16785239
+errichtet werden | errichtet sein
+16785243
+auch wenn | selbst wenn | obgleich
+16785245
+Tabak | Zigarette | Zigarre
+16785246
+oft | öfters | häufig
+16785249
+sich verlassen auf | sich stützen auf | abhängen
+16785252
+kurzer Weg | Abkürzung | kürzerer Weg
+16785262
+fangen | fassen | festnehmen
+16785270
+etw. ergreifen | das wichtigste herausgreifen | zusammenfassen
+16785285
+treffen | begegnen | stoßen (auf)
+16785289
+schätzen | hoch schätzen | Achtung haben
+16785292
+manchmal | bisweilen | hin und wieder
+16785293
+stocken | ins Stocken geraten | unterbrochen werden
+16785294
+schärfen | schleifen | wetzen (z. B.eine Schneide)
+16785295
+Dorn | Stachel | Splitter
+16785298
+Griff | Knauf | Henkel
+16785300
+Anmeldung | Anzeige | Bekanntgabe
+16785308
+gefangen werden | festgenommen werden | an etw. haften
+16785314
+Kontrolle | Aufsicht | Verwaltung
+16785318
+annehmen | nehmen | anstellen
+16785324
+Habsucht | Gierigkeit
+16785327
+ziemlich | recht | sehr
+16785328
+das Innere | Inhalt | Gehalt
+16785333
+Durchschnitt | Mittelmaß | mittlere Qualität
+16785335
+nachahmen | kopieren | zum Muster machen
+16785336
+Ausgang | Folgen | Verlauf
+16785337
+Einflussgebiet | Abgrenzung mit einem Seil
+16785354
+Hals | Kehle
+16785356
+Wachstum | Wachsen | Wuchs
+16785365
+unbekümmert | sorglos | leichtsinnig
+16785367
+flüchtig | vergänglich | vorübergehend
+16785372
+aufziehen | großziehen | ernähren
+16785375
+wie erwartet | wie vermutet | wie ich gedacht habe
+16785381
+prächtig | herrlich | glänzend
+16785385
+sich widersetzen | die Stirn bieten | sich auflehnen
+16785393
+Enthüllung | Aufdeckung | Entlarvung
+16785401
+übernehmen | entgegennehmen | auf sich nehmen
+16785407
+Schublade | Schubfach | Lade
+16785408
+herausziehen | herausführen | abheben (Geld bei der Bank)
+16785414
+verlängern | ausdehnen | vergrößern
+16785425
+fürs Erste | vorläufig | einstweilen
+16785435
+kalt | kühl | kaltherzig
+16785442
+in Lachen ausbrechen | ausströmen | herausspritzen
+16785444
+sich ausdehnen | anschwellen | aufgehen
+16785452
+Boot | Schiff | Wasserfahrzeug
+16785454
+Bahnübergang | Absprung | Absprungstelle
+16785455
+vermehren | vergrößern | verstärken
+16785464
+Echter Spinat | Spinat | Gemüsespinat
+16785471
+zugrunde gehen | untergehen | zerstört werden
+16785480
+vermischt sein | gemischt sein | sich mengen
+16785487
+verschieden | bunt | mannigfaltig
+16785500
+Mitte | Zentrum | halbe Strecke
+16785506
+Minderjährigkeit | Unmündigkeit | Minorennität
+16785508
+gefunden werden | entdeckt werden | gesehen werden
+16785513
+sich vergewissern | sich überzeugen | mit seinen eigenen Augen sehen
+16785525
+schlechter Zahn | fauler Zahn
+16785526
+vielmehr | oder besser | richtiger
+16785532
+Gewinn | Profit | Ertrag
+16785534
+Besitzer | Eigentümer | Inhaber
+16785535
+Besitz | Eigentum | Habe
+16785543
+Kessel | Wasserkessel | Teekessel
+16785548
+abmagern | schlank werden | dünn werden
+16785549
+Arbeitgeber | Dienstherr
+16785550
+anstellen | einstellen | mieten
+16785567
+anderswo | ein anderer Ort | anderer
+16785582
+sich teilen | geteilt sein | auseinander gehen
+16785583
+jugendfrisch | taufrisch | jugendlich
+16785587
+kochen | sieden | heiß werden
+16785588
+heraussprudeln | hervorquellen | herausströmen
+16785593
+Anteil | Beitrag | Quote
+16785598
+Ermäßigung | Preisnachlass | Rabatt
+16785599
+Riss | Sprung | Spalte
+16785603
+anstoßen | stecken bleiben | verstopft sein
+16785614
+glücklich | glückverheißend | zu beglückwünschen
+16785615
+nachlaufen | verfolgen | hinter jmdm. herrennen
+16785621
+Zusammenkunft | Treffen | Versammlung
+16785622
+Anruf | Ansprechen | Gruß
+16785629
+Mobbing | Schikanieren | Schikane
+16785633
+überhaupt nicht | absolut nicht | gar nicht
+16785635
+Ermahnung | Warnung | Belehrung
+16785640
+verneinen | negieren | ableugnen
+16785645
+Oshiroi | weiße Schminke | weißes Puder
+16785654
+krank werden | eine Krankheit bekommen | leiden an
+16785665
+Leichtsinnigkeit | Gedankenlosigkeit | Nachlässigkeit
+16785669
+asketisch | enthaltsam | abstinent
+16785670
+sich festbeißen | fest greifen | sich nicht abschütteln lassen
+16785683
+Gelegenheit | rechte Zeit | günstiger Zeitpunkt
+16785684
+Innigkeit | Herzlichkeit | Intimität
+16785691
+weiblich | feminin | frauenhaft
+16785696
+sich anklammern | sich festhalten | sich verlassen auf
+16785697
+Entschuldigung! | Danke! | bedauern
+16785698
+Folge | Ursache | Grund
+16785720
+Bitte | Auftrag | Vertrauen
+16785724
+Einlaufen | Eingehen | Schrumpfen
+16785731
+anzünden | anmachen | anstellen
+16785732
+stützen | sich stemmen | beharren
+16785742
+Zeichen | Äußerung | Symptom
+16785750
+unerwartet | ungeahnt | unverhofft
+16785754
+Privatklinik | Arztpraxis
+16785760
+bestimmt | sicher | sicherlich
+16785770
+Direktor | Firmendirektor | Vorsitzender
+16785781
+alles | was auch immer | es heißt
+16785785
+Umdrehen im Bett | Hin‑ und Herwerfen im Schlaf | Verrat
+16785795
+Anfang | Beginn | Einleitung
+16785803
+Zahlung | Bezahlung | Aufräumen
+16785807
+Hackfleisch | Gehacktes | Hack
+16785829
+wirklich | sehr | in der Tat
+16785830
+Zufallstreffer | glücklicher Zufall | Glück
+16785840
+flink | leicht | unbeschwert
+16785846
+Erscheinung | Erscheinungsbild | Aussehen
+16785852
+entzückt sein | fasziniert sein | entzückt ansehen
+16785857
+Unterscheidung | Unterschied | Erkenntnis
+16785875
+wenn … | falls … | im Falle, dass …
+16785881
+schwenken | schwingen | erschüttern
+16785886
+Schmutz | Dreck | Fleck
+16785910
+Behelf | Provisorium | Notlösung
+16785911
+versehentlich übersehen | verpassen | bewusst übersehen
+16785919
+Ruhetag | Urlaub | Ferien
+16785934
+verdauen | beherrschen | erledigen
+16785936
+dröhnen | brummen | hallen
+16785939
+überfahren | überrollen | umfahren
+16785944
+Kleidung | Kleider | Anzug
+16785946
+Wachsamkeit | Aufmerksamkeit | Fürsorge
+16785950
+gelegentlich | selten | hin und wieder
+16785952
+Hammer | Eisenhammer | Nichtschwimmenkönnen
+16785954
+Fortsetzung | Folge | Aufeinanderfolge
+16785963
+Würde | Vornehmheit | Feinheit
+16785968
+früh | frühzeitig | geschwind
+16785979
+Gesundheit | Robustheit | Fleiß
+16785992
+Gold | Goldfarbe | goldener Glanz
+16782628
+zwei | 2 | zweit
+16781110
+ordnen | in Ordnung bringen | vorbereiten
+16781112
+Ordnung | Anordnung | Arrangement
+16781113
+Wartung | Instandsetzung | Kontrolle
+16781114
+Einordnung | Anordnung | Regelung
+16781116
+Stern | Gestirn
+16781118
+heiteres Wetter
+16781119
+aufklaren | aufheitern
+16781122
+richtig | zutreffend | aufrichtig
+16781124
+richtig | genau | pünktlich | eben
+16781125
+richtige Antwort | richtige Entscheidung
+16781126
+Genauigkeit | Präzision | Exaktheit
+16781127
+Regularität | Legitimität
+16781131
+Formalität | Regelmäßigkeit | vorgeschriebene Form
+16781133
+formelle Kleidung | Gesellschaftsanzug
+16781134
+jmds. wahre Gestalt | jmds. Identität
+16781136
+Berechtigung | Rechtlichkeit | Gesetzmäßigkeit
+16781140
+rein | klar
+16781141
+Reinheit | Sauberkeit
+16781143
+Begleichung einer Rechnung | Liquidation | Bruch (mit der Vergangenheit)
+16781146
+Rohheit | Natürlichkeit | Frische
+16781149
+leben | existieren
+16781155
+geboren werden
+16781158
+angeboren | von Geburt an
+16781161
+Leben | Lebzeiten | lebenslang
+16781168
+leider | unglücklicherweise
+16781169
+Dasein | Existenz
+16781180
+Höhepunkt | Gipfel | Blütezeit
+16781183
+auffüllen | anhäufen | servieren | verabreichen
+16781184
+lebhaft | gedeihend | erfolgreich | aktiv
+16781185
+blühend | prachtvoll | pompös
+16781188
+Geist | Seele | Mentalität
+16781190
+Präzision | Exaktheit | Feinheit
+16781192
+Stimme | Laut
+16781193
+Kundgebung | Proklamation | Erklärung
+16781195
+Herstellung | Anfertigung
+16781197
+Produktion | Fertigung | Fabrikation
+16781201
+Westen
+16781208
+tatsächlich | wirklich | ehrlich | höchst
+16781210
+Aufrichtigkeit | Ehrlichkeit | Treue
+16781212
+Petition | Gesuch
+16781213
+Bitte | Forderung | Antrag | Rechnung
+16781214
+Blau | Grün
+16781215
+blau | grün
+16781221
+still | ruhig | schweigsam | friedlich
+16781223
+Totenstille | Ruhe | Abgeschiedenheit
+16781224
+Lautlosigkeit
+16781228
+fragil | zerbrechlich | empfindlich
+16781229
+Sitzplatz
+16781231
+schade | bedauerlich | teuer | kostbar
+16781232
+bedauern | geizen | ungern geben | wertschätzen
+16781233
+frühere Zeiten | damals | einst
+16781238
+steinharter Schädel | Holzkopf | Borniertheit
+16781241
+stapeln | anhäufen | laden
+16781242
+Absicht | Vorhaben | Erwartung | Hoffnung
+16781246
+zur Rechenschaft ziehen | drängen | quälen
+16781247
+Verantwortung | Pflicht | Haftung
+16781255
+Spur | Abdruck | Ruine | Vermächtnis
+16781258
+schneiden | aufschlitzen | kappen
+16781259
+abgeschnittener Teil | Stoffstück | Schärfe (auch d. Linse/d. Urteilsvermögens)
+16781260
+zerreißen | schneiden | aufplatzen
+16781265
+berühren | grenzen an | empfangen
+16781266
+Annäherung | Angrenzen | Nahesein
+16781268
+Verbindung | Verknüpfung | Anschluss
+16781269
+Empfang | Bewirtung
+16781273
+umgehend Antwort | Wende | Refrain
+16781274
+umschlagen | umkrempeln | wenden
+16781275
+brechen | zerbrechen | falten | biegen
+16781276
+abgebrochen werden | sich falten lassen | jmdm. nachgeben
+16781278
+bereitstellen | arrangieren | organisieren | verordnen
+16781279
+Plan | Entwurf
+16781280
+Errichtung | Installieren | Einrichtung
+16781281
+Einrichtung | Konfiguration | Szenarium
+16781282
+Ausstattung | Ausrüstung | Anlage
+16781284
+Zeit | Gelegenheit | Passage | Paragraph
+16781285
+Astknoten | Gelenk | Melodie | Noten
+16781288
+erklären | erläutern | zureden | predigen
+16781289
+Predigt
+16781291
+Erklärung | Erläuterung | Darlegung
+16781293
+Schneeschmelze | Tauen
+16781294
+Schneelawine
+16781296
+erlöschen | nachlassen | aussterben
+16781300
+Absolutheit | Bedingungslosigkeit | absolut | unbedingt
+16781306
+früher | vorher | vorangehend | vorne
+16781311
+Lehrer | Meister
+16781312
+Vorfahre | Ahne
+16781313
+neulich | vor kurzem | unlängst
+16781318
+neulich | vor Kurzem | dieser Tage
+16781327
+Besetzung | Inbesitznahme
+16781328
+Manifest | Ausrufung | Bekanntgabe
+16781329
+Urteil | Erklärung | Urteilsspruch
+16781335
+Fachgebiet | Hauptfach | Beruf
+16781337
+spitz werden | sich verjüngen | verärgert sein
+16781344
+Vorkriegszeit
+16781345
+Krieg | Schlacht | Gefecht
+16781351
+seicht | oberflächlich | schwach
+16781352
+waschen | abspülen | Untersuchungen anstellen
+16781354
+Wäsche | Waschen
+16781362
+einsickern | durchdringen | schmerzen | brennen | zu Herzen gehen
+16781370
+flattern | fächeln | entfachen | anstiften
+16781383
+Auswahl | Auslese | Wahl
+16781386
+aufblitzen | einen Geistesblitz haben | funkeln | flackern
+16781387
+kräftig | lebhaft | frisch (Farbe) | klar (Form, Gedächtnis)
+16781388
+ehemaliger … | vorhergehender … | Ex…
+16781389
+vorn | vor | davor | bevor
+16781392
+vor und nach | etwa | ungefähr
+16781393
+Vorwärtsgewandtsein | positive Haltung
+16781397
+Vorankündigung | Vorzeichen | Omen
+16781410
+endlich | mit knapper Not | nur mühsam
+16781422
+vollständige Vernichtung | völlige Zerstörung | Auslöschung
+16781426
+ausbessern | reparieren | in Ordnung bringen | überspielen
+16781429
+beabsichtigen | zielen auf | anvisieren | nachstellen
+16781438
+Inhaltsübersicht | grober Überblick | Auszug
+16781440
+Einfachheit | Schlichtheit | Grobheit
+16781443
+Anlage | Begabung | Disposition
+16781445
+wunderbar | ausgezeichnet | prächtig
+16781447
+folgsam | gefügig | lieb | zahm
+16781448
+großartig | herrlich | fabelhaft
+16781453
+verschränken | Hände falten | sich zusammentun | gemeinsam handeln
+16781456
+Organisation | Formation | Gliederung
+16781457
+Klage | Beschwerde | Rechtsstreit
+16781458
+sich beschweren | sich beklagen  | an etw. appellieren | sich wenden an
+16781465
+Schaffung | Dichtung | Erfindung
+16781471
+frisch | erquickend | klar | redegewandt
+16781472
+Fantasie | Einbildung | Vorstellung
+16781474
+Ermittlung | Fahndung | Nachforschung
+16781477
+Putzen | Fegen | Saubermachen
+16781479
+sich kratzen
+16781480
+handhaben | manipulieren | beherrschen
+16781481
+Bedienung | Handhabung | Operation
+16781482
+Fliegen (eines Flugzeuges) | Lenkung | Steuerung
+16781486
+frühe Phase
+16781493
+Nest | Horst | Bau
+16781496
+ Streit | Fehde | Wettkampf | Konkurrenz
+16781497
+sich zanken | kämpfen | wetteifern | konkurrieren
+16781498
+Streik | Streit | Konflikt
+16781499
+Unterschied | Verschiedenheit | Diskrepanz
+16781504
+Partner | Kamerad | der Andere | Gegner
+16781505
+Börsenkurs | Marktpreis | Spekulation
+16781508
+Beratung | Besprechung | Konsultation
+16781510
+Angemessenheit | Entsprechen | Äquivalenz
+16781511
+wie immer | nach wie vor | unverändert
+16781516
+Allgemein… | General… | Gesamt…
+16781522
+Gras | Kraut
+16781524
+Wiese | Grasebene
+16781526
+beerdigen | bestatten | vertuschen | ignorieren
+16781528
+sich ankleiden | tragen | heucheln | vortäuschen
+16781529
+Schmuck | Verzierung | Dekoration
+16781530
+Vorrichtung | Anlage | Gerät
+16781531
+rennen | laufen
+16781533
+senden | schicken | verabschieden
+16781536
+Senden | Schicken | Übersenden
+16781541
+lärmend | geräuschvoll | aufrührerisch | turbulent
+16781542
+Getöse | Getue | Tumult
+16781543
+lärmen | Krach machen | toben
+16781547
+sich vermehren | größer werden | schwellen | zunehmen
+16781548
+Zunahme | Vermehrung | Wachstum
+16781559
+drängen | mahnen | anregen | beschleunigen
+16781563
+Seite | Flanke | Aspekt
+16781567
+Stegreif | Improvisation | Sofort… | Fertig…
+16781568
+Atem | Atmung
+16781573
+Fesselung | Bindung | Einschränkung
+16781576
+Fuß | Bein
+16781578
+addieren | hinzufügen | ergänzen
+16781581
+Schrittgeräusch | Vorgefühl
+16781583
+Treten auf der Stelle | Stampfen | Stillstand
+16781584
+schnell | zügig | früh | verfrüht
+16781591
+andauern | sich fortsetzen | sich erstrecken
+16781594
+Schulabschluss | Abgang | Absolvieren | Entwachsen
+16781595
+Ärmel | Flügel (eines Gebäudes) | Seitenteil eines Schreibtisches
+16781599
+wenn das der Fall ist | dann
+16781600
+dann | darauf | deshalb | nun
+16781601
+vollzählig werden | sich versammeln | übereinstimmen
+16781602
+anpassen | aufeinander abstimmen | zusammenstellen
+16781604
+Dasein | Existenz
+16781606
+Achtung | Ehrerbietung
+16781608
+Verlust | Schaden | Nachteil
+16781609
+schaden | schädigen | verletzen (Gefühle)  | verpassen … zu tun 
+16781619
+mehrere | viele … | multi-
+16781625
+wahrscheinlich | vermutlich | eine Menge | viel
+16781627
+Vielfalt
+16781629
+dick | fett | tief (Stimme) | dreist
+16781637
+Angemessenheit | Gültigkeit | Richtigkeit
+16781639
+schlagen
+16781641
+Schlag
+16781646
+Zwecklosigkeit | Erfolglosigkeit | vergeblich | nutzlos
+16781647
+Körper
+16781655
+Aussehen | äußere Erscheinung | Form
+16781656
+physische Konstitution | Körperbau | Verfassung
+16781660
+Turnen | Gymnastik | Leibesübung | Schulsport
+16781666
+Anhäufung | Ablagerung
+16781669
+Entsprechung | Übereinstimmung | Kompatibilität | Zurechtkommen
+16781671
+Wettkampf | Kräftemessen | Gegeneinanderstehen
+16781679
+Gegensatz | Vergleich
+16781680
+Konfrontation | feindliches Gegenüberstehen | Antagonismus
+16781682
+Obi | Gürtel | Gurt | Leibbinde
+16781691
+warten | erwarten
+16781692
+(Alarm-) Bereitschaft
+16781693
+Behandlung | Aufnahme | Bezahlung
+16781696
+faulenzen | schwänzen | vernachlässigen
+16781705
+Tasche | Beutel | Sack
+16781706
+Mieten | Leihen | Darlehen | Gefallen
+16781708
+ausleihen | vermieten
+16781713
+Ausrottung | Vernichtung | Unterwerfung
+16781715
+Zufluchtnehmen | Evakuieren | Sicherheitskopie
+16781716
+Festnahme | Verhaftung
+16781720
+Stellvertretung | Vertretung
+16781722
+Repräsentant | Delegierter | Nationalspieler
+16781724
+Pronomen | Inbegriff | Synonym
+16781726
+Vertretung | Agentur | Bevollmächtigter
+16781729
+Verderben | Vereiteln 
+16781730
+sehr | viel | beachtlich | in großem Umfang
+16781731
+Größe | Maß | Dimension | Volumen
+16781733
+groß | bedeutend | wichtig
+16781737
+Hausbesitzer | Vermieter
+16781739
+(große) Versammlung | Generalversammlung | Konferenz
+16781741
+das meiste | im Allgemeinen | zum größten Teil | wahrscheinlich
+16781757
+wichtige Sache | ernste Angelegenheit | wichtig | ernst
+16781759
+Masse | Menschenmenge | Volk
+16781760
+Größe | Groß und Klein
+16781761
+alles in Ordnung | sicher | zuverlässig
+16781762
+Minister
+16781764
+artig | wohlerzogen | sanftmütig | dezent
+16781771
+wichtig | bedeutsam | kostbar | teuer
+16781774
+äußerst | ungemein | überreichlich | übertrieben
+16781779
+im Großen und Ganzen | fast ganz | ungefähr | beinahe
+16781780
+Kühnheit | Furchtlosigkeit | Dreistigkeit
+16781781
+Erde | Grund | Boden
+16781783
+meistens | in der Regel | gewöhnlich
+16781789
+Großteil | Mehrheit | größtenteils
+16781790
+großes Ausmaß | dramatisches Ausmaß | große Breite (z.B. Papier od. Stoff)
+16781792
+ziemlich | bedeutend | sehr
+16781793
+Großbuchstabe
+16781795
+ernste Sache | beschwerliche Sache | ernst | schrecklich
+16781797
+hauptsächlich | größtenteils | meistens | Allgemeinheit
+16781800
+große Menge | Masse
+16781801
+Nr. 1 | Erster | Haupt…  | zuerst
+16781802
+Thema | Gegenstand | Aufgabe
+16781808
+trüb machen | sich unklar ausdrücken | zweideutig reden | Ausflüchte machen
+16781812
+aber | jedoch
+16781814
+erreichen | erlangen | ankommen
+16781816
+wegnehmen | entreißen | rauben
+16781818
+Ausbruch | Flucht
+16781819
+Austrocknung | Dehydrierung | Entwässerung
+16781821
+Entgleisung | Abschweifung
+16781822
+Austritt | Rücktritt | Loslösung
+16781823
+Ausfallen | Auslassung | fehlender Teil | Zurückfallen
+16781825
+Regal | Wandbrett | Büchergestell
+16781826
+wer | welcher | jemand
+16781832
+Einheit | Einheitlichkeit | Einmaligkeit
+16781839
+beklagen | jammern | trauern | beweinen
+16781840
+auf den Schultern tragen | aufstellen | wählen | auf den Arm nehmen
+16781842
+Auftrag | Verantwortung | Aufsicht
+16781847
+Hausherr | Ehemann | Herr | geschätzter Kunde
+16781854
+Ungeduld | Reizbarkeit | Jähzorn
+16781858
+unverblümt | direkt | klar | bestimmt
+16781863
+Geburt | Entstehung
+16781865
+härten | schmieden | abhärten | stählen
+16781866
+Zusammenhalt | Solidarität | Vereinigung
+16781869
+Danchi; Plattenbausiedlung
+16781873
+hüpfen | zurückprallen | zurückgehen | lebhaft sein
+16781875
+bestimmt | durchaus | entschieden
+16781876
+ablehnen | absagen | verweigern | sagen | mitteilen
+16781879
+entschlossen | durchaus | absolut
+16781880
+Schlussfolgerung | Entscheidung | Urteil
+16781884
+Ladenvorhang
+16781895
+Gespräch | Unterhaltung
+16781898
+Nachricht | Mitteilung | Meldung
+16781899
+mitteilen | benachrichtigen
+16781901
+wissen | verstehen | kennen | erfahren
+16781904
+Weisheit | Vernunft | Intelligenz
+16781908
+Intellekt | Intelligenz
+16781913
+Bezirk | Gebiet | Region
+16781914
+Untergrund
+16781919
+Topographie
+16781930
+Gegend | Gebiet | Provinz
+16781931
+Schlichtheit | Bescheidenheit
+16781935
+erschlaffen | entspannen | nachlassen
+16781938
+sich schämen | schüchtern | verlegen
+16781939
+Teich | Weiher
+16781940
+platzieren
+16781941
+tun
+16781951
+Ansammlung | Speicherung
+16781953
+Erstickung | Asphyxie
+16781954
+Tee
+16781958
+ankommen
+16781959
+jmdn. anziehen | mit etwas überziehen
+16781960
+ankleiden | tragen
+16781961
+Zuverlässigkeit | Ehrlichkeit
+16781962
+Arbeitsbeginn
+16781970
+Inneres | innerhalb
+16781971
+Mitte | Zentrum | Hauptstadt
+16781976
+Mitte | Mittel | Zwischen… | Übergangs…
+16781980
+Kern | Rückgrat | Stütze | Zentrum
+16781986
+Zentrum | Mittelpunkt
+16781991
+Unterbrechung | Entzweibrechen | Stockung
+16781994
+Mitte des Weges | der halbe Weg | goldene Mitte
+16781999
+Unparteilichkeit | Neutralität | Neutralisierung (zB von Schadstoffen)
+16782002
+Kollege | Kamerad | Gruppe | Clique
+16782003
+Schlichtung | Vermittlung
+16782009
+Rat | Hinweis | Warnung
+16782019
+Pfosten | Säule | Stütze
+16782021
+Aufmerksamkeit | Vorsicht
+16782022
+Injektion | Spritze
+16782023
+Bestellung | Auftrag
+16782024
+Aufmerksamkeit | Beachtung
+16782025
+Insekt | Gewürm
+16782028
+bedeutend | beachtlich | beträchtlich
+16782031
+(literarisches) Werk
+16782033
+Sparen | Ersparnisse
+16782034
+genau | passend | genau wie
+16782035
+Höflichkeit | Zuvorkommenheit | Bedacht
+16782039
+reden | plaudern
+16782040
+Behörde | Regierungsamt
+16782041
+hervorstehen | überhängen
+16782042
+enthusiastisch sein. | in bester Stimmung sein | aufgeregt sein
+16782043
+aufspannen | bedecken | anspannen
+16782044
+meißeln | schnitzen | gravieren
+16782046
+Einnehmen | Einsammeln
+16782047
+Einberufung | Militärdienst
+16782050
+Kampfansage | Herausforderung | Inangriffnahme
+16782053
+blaue Prunkwinde
+16782065
+Untersuchung | Erforschung | Melodie | Ton
+16782066
+untersuchen | erforschen
+16782068
+Investigation | Erhebung | Untersuchung
+16782069
+Ton | Klang | Befinden | Stimmung
+16782070
+Regulierung | Justierung | Anpassung
+16782071
+Einstellung | Regulierung | Kontrollieren
+16782072
+Versöhnung | Beilegung | Schlichtung
+16782075
+Harmonie | Einklang | Versöhnung
+16782076
+Super… | Ultra…
+16782080
+springen | hüpfen | aufspringen | spritzen (Wasser, Fett etc.)
+16782082
+fliegen
+16782091
+Fortdauer | Ständigkeit
+16782097
+Gipfel | Spitze
+16782098
+Erhalten | Empfangen
+16782099
+höchster Punkt | Scheitelpunkt | Vertex | Knoten
+16782102
+vorwärtskommen | gut vorangehen
+16782103
+unmittelbar | sofort
+16782104
+sogleich | unverzüglich
+16782110
+Volltreffer
+16782118
+Reihenschaltung
+16782119
+untergehen | sinken | niedergeschlagen sein
+16782122
+Schweigen | Stille
+16782124
+Lohn | Bezahlung
+16782126
+Banalität | Abgedroschenheit
+16782132
+vertreiben | hinausjagen
+16782134
+verfolgen | jagen | nachgehen
+16782136
+Verhör | Befragung
+16782145
+Schmerzen haben | beschädigt werden | verderben
+16782146
+verletzen | Schmerzen zufüfen
+16782148
+verkehren zwischen | pendeln | pulsieren
+16782149
+sich verständigen können | sich auskennen | Bescheid wissen
+16782150
+durchdringen | durchstechen | durchführen
+16782151
+Straße | Weg | Gang
+16782152
+… entsprechend | wie … | …‑Straße
+16782153
+passieren | hindurchgehen | durchqueren
+16782154
+entlanggehen | entlangfahren | passieren
+16782156
+Durchfahrt | Durchzug | Passage | Bestehen
+16782158
+Berufspendeln
+16782159
+Verkehr
+16782161
+Normalität | gewöhnlich | im Allgemeinen
+16782162
+Kommunikation | Korrespondenz | Datenübertragung
+16782163
+Bekanntmachung | Erlass | Rundschreiben
+16782164
+Mitteilung | Notiz | Anzeige
+16782168
+allgemeiner Gebrauch | Gültigkeit
+16782171
+greifen | fassen | ergreifen | verstehen
+16782176
+zerdrücken | erschlagen | ruinieren | totschlagen
+16782177
+zerquetscht werden | zerstört werden | zunichte werden
+16782178
+Fingernagel | Kralle | Klaue | Huf
+16782181
+aufhängen | hängend anbringen | hochheben
+16782183
+ausbalancieren | harmonisieren | gut passen
+16782187
+niedrig
+16782188
+Sinken | Verminderung | Verschlechterung
+16782191
+Stoppen | Stillstand | Unterbrechung
+16782192
+Halt | Anhalten
+16782193
+Stagnation
+16782194
+Stromausfall
+16782196
+Aufklärung | Auskundschaftung
+16782200
+festlegen | bestimmen | vorschreiben
+16782201
+zugelassene Personenzahl
+16782203
+bestimmte Zeit
+16782209
+Fixierung
+16782212
+Boden | Sohle
+16782216
+Widerstand | Opposition | Widerstreben
+16782219
+Angebot | Bereitstellen | Sponsoring
+16782221
+Einbringung (von Dokumenten, Beweisen, Gesetzen, etc)
+16782222
+Leiter
+16782223
+Grenze | Maß | ungefähr | so … wie
+16782225
+Ausmaß | Grad | Stufe | ungefähr … 
+16782227
+zubinden | umbinden | festschnüren | (eine Schraube) anziehen
+16782229
+aufgeben (zB. einen Plan) | verzichten | hinnehmen
+16782232
+Schlamm | Dreck
+16782239
+Treffen (eines Zieles) | Eintreffen (einer Voraussage)
+16782241
+sich eignen | passend sein
+16782242
+Anpassung | Adaptation
+16782243
+Angemessenheit | geeignet | angemessen
+16782247
+Eignung | Adäquanz
+16782254
+gründlich | vollständig | erschöpfend
+16782256
+Rückzug | Zurücknahme | Widerruf
+16782257
+Eisen | Eisen (-Bahn); Abk.
+16782259
+Bewehrungsstahl
+16782262
+Schusswaffe
+16782267
+Zimmerdecke
+16782268
+Welt | Öffentlichkeit | Regierung
+16782275
+Natur… | Naturgegebenheit | Spontanität
+16782279
+Entwicklung | Entfaltung | Dekompression
+16782281
+Ausblick
+16782285
+begleiten | Geleit geben | gemäß sein | entsprechen
+16782288
+Anlage | Beilage
+16782290
+zusammenstellen | in Einklang bringen | abschließen
+16782291
+rollen | wälzen | umwerfen
+16782292
+sich herumwälzen | rollen | hinfallen
+16782294
+Umzug
+16782296
+Umkippen | Kentern | Sturz (einer Regierung)
+16782297
+Punkt
+16782302
+Blinken
+16782304
+übermitteln | mitteilen | überliefern
+16782305
+sich verbreiten | im Umlauf sein | überliefert werden
+16782308
+Übertragung
+16782321
+(elektrischer) Zug
+16782338
+anstreichen | malen | auftragen
+16782342
+übergeben | überreichen | hinüberbringen
+16782343
+überschreiten | überqueren
+16782351
+aufhören | enden | erlöschen
+16782354
+Umstände | Gelegenheit
+16782361
+Anstrengung | Bemühung | Bestrebung
+16782368
+Damm | Deich | Wall
+16782370
+Fundament | Basis
+16782376
+zornig werden | sich aufregen | schimpfen
+16782377
+schreien | brüllen | anschnauzen
+16782378
+fällen | umwerfen | umlegen
+16782379
+umfallen | umkippen | einstürzen
+16782389
+Einfrieren | Gefrieren
+16782390
+(einschneidiges) Schwert
+16782396
+werfen
+16782397
+Projektion
+16782398
+Investition
+16782400
+Abstimmung | Wahl
+16782408
+Dachfirst
+16782409
+stehlen
+16782414
+Lampenöl
+16782415
+Volltreffer
+16782416
+Selbstverständlichkeit | selbstverständlich | gewöhnlich
+16782417
+treffen | einen Treffer landen | gewinnen
+16782418
+Ziel (eines Vorhabens, Spieles, etc) | Erwartung
+16782419
+treffen (zB einen Ball) | etwas an etwas halten (zB Hand ans Ohr)
+16782421
+zuständige Behörde | Obrigkeit
+16782431
+Ratlosigkeit | Verlegenheit
+16782439
+Röhre | Zylinder
+16782440
+Einheit | Vereinigung
+16782442
+Integration | Vereinigung
+16782445
+Ankunft | Erreichen | Verwirklichung
+16782446
+Ankunft | Eintreffen
+16782451
+Diskussion | Debatte
+16782453
+abspringen | sich abstoßen | entscheiden | wagen
+16782454
+auftreten | betreten
+16782457
+fliehen | entkommen | sich drücken
+16782458
+davonlaufen | ausreißen
+16782459
+entkommen | flüchten
+16782470
+Kampf | Konflikt | Streik
+16782471
+Arbeit | Tätigkeit
+16782472
+arbeiten
+16782473
+bewegen | regen | rücken
+16782474
+Bewegung | Regung | Aktivität
+16782475
+sich bewegen | sich rühren | sich regen
+16782481
+(Körper-) Bewegung
+16782486
+Rütteln | Schwanken | Unruhe
+16782487
+Unruhen | Aufruhr | Aufstand
+16782489
+dasselbe
+16782490
+gleich | identisch
+16782491
+Einwilligung | Zustimmung | dieselbe Ansicht
+16782492
+Gleichheit | Einheitlichkeit
+16782493
+Homophonie
+16782494
+Assimilierung | Angleichung | Eingliederung
+16782495
+Nachempfindung | Sympathie | Übereinstimmung
+16782496
+derselbe Zeitraum | Synchronität
+16782500
+Gleichgesinnter | Kamerad | Verbündeter
+16782503
+Mitleid | Mitgefühl | Anteilnahme
+16782504
+derselbe Familienname
+16782508
+Gleichheit | Gleichstellung | Ebenbürtigkeit
+16782512
+gleiche Art | Komplize | Mittäter
+16782514
+führen | leiten
+16782517
+sich sehnen | streben nach … | bewundern
+16782521
+Rumpf | Torso
+16782524
+Straße | Weg
+16782525
+Werkzeug | Gerät
+16782533
+Bergpass
+16782535
+Gewinn | Nutzen
+16782537
+Stolz | Hochmut | Erfolg
+16782566
+Ledigkeit
+16782567
+Monopol | Alleinbesitz
+16782569
+eigenartig | eigentümlich | originell
+16782570
+Unabhängigkeit | Selbständigkeit | Autonomie
+16782571
+Lesung | Aussprache
+16782574
+lesen
+16782579
+stoßen auf | krachen gegen | treffen auf (Probleme, Widerstand)
+16782581
+stoßen | stechen | sich auf etw. stützen
+16782582
+(wiederholt) picken | stubsen | hacken
+16782587
+erreichen | ankommen | geliefert werden
+16782588
+liefern | senden | benachrichtigen
+16782593
+sich bewölken | sich verfinstern
+16782594
+Gefühllosigkeit | Dickfelligkeit
+16782596
+Innenseite | Inneres | innen
+16782597
+innere Medizin
+16782601
+Geheimnis | Geheimhaltung | Vertraulichkeit
+16782604
+innere Organe | Eingeweide
+16782606
+Inneres | Innenseite
+16782611
+Kochtopf | Pfanne | Eintopf
+16782614
+Süden
+16782615
+Südpol | Antarktis
+16782619
+Abschwächung | Erweichung
+16782630
+erster Stock
+16782637
+Fleisch
+16782644
+roter oder goldener Kreis als Sonnensymbol | japanische Nationalflagge
+16782665
+Sonnenuntergang | Abenddämmerung | Zwielicht
+16782674
+hineingehen | eintreten | beitreten
+16782675
+hineintun | einfüllen | etw. in etw. tun
+16782678
+Aufnahme in eine Schule | Immatrikulation
+16782679
+Geldeinnahme | Zahlungseingang | Einnahmen
+16782681
+Ausschreibung | Angebot | Gebot
+16782685
+Erlangung | Erhalt | Beschaffung
+16782689
+Eintragung ins Familienregister
+16782691
+Sorgfalt | Behutsamkeit
+16782693
+Einführung | Eintritt in eine Schule | Leitfaden (Abk. für 入門書)
+16782695
+Eingabe | Input
+16782700
+überlassen | anvertrauen | sich fügen
+16782705
+Schwangerschaft
+16782706
+sich verbergen | meiden | erdulden
+16782707
+Geduld | Ausdauer | Beharrlichkeit
+16782708
+merken | erkennen | feststellen | anerkennen
+16782709
+Zustimmung | Erlaubnis | Lizenz
+16782710
+Erkenntnis | Verständnis
+16782714
+Katze
+16782717
+Wärme | Hitze | Fieber | Eifer
+16782718
+heiß | hitzig
+16782721
+heiße Luft | Hitze | Begeisterung
+16782722
+Eifer | Fleiß | Leidenschaft
+16782734
+Alter | Generation | heiratsfähiges Alter
+16782738
+Epoche | Periode | Zeitalter
+16782741
+Steuerjahr | Haushaltsjahr | Jahrgang
+16782747
+sorgfältig | vorsichtig | gründlich
+16782749
+umdrehen | sich drehen | wälzen | biegen
+16782751
+brennen
+16782760
+Leiden | Kummer | Betrübnis | Qual
+16782762
+gesättigt | kräftig | intensiv
+16782763
+Stärke (Geschmack, Geruch, Farbe) | Dichte | Dicke
+16782767
+Verständnis | Einverständnis
+16782769
+Talent | Begabung | Nō-Drama
+16782772
+Fähigkeit | Kompetenz | Begabung
+16782779
+Bauernhof | Landgut
+16782785
+Welle
+16782787
+Gruppierung | Clique | Konfession | Strömung
+16782789
+Auffälligkeit | Buntheit | Prunk
+16782790
+Ableitung | Derivation
+16782792
+zerreißen | zerbrechen | übertreten | besiegen
+16782795
+Aufhebung | Widerruf | Bruch
+16782796
+Katastrophe | Zusammenbruch | unglücklicher Ausgang
+16782799
+Misserfolg | Versagen | Bankrott
+16782801
+Untergang | Zusammenbruch | Verfall
+16782802
+Bersten | Platzen
+16782804
+Pferd
+16782814
+Entwässerung | Drainage
+16782822
+widersprechen | sich etw. entgegenstellen | zuwiderhandeln
+16782823
+Hintergrund | Szenerie
+16782827
+auf dem Rücken tragen | schultern
+16782830
+verteilen | austragen | liefern | zuteilen
+16782834
+Anordnung | Arrangement | Gliederung | Platzierung
+16782835
+Zuteilung | Anteil | Dividende
+16782836
+Verteilung | Austeilung | Verbreitung
+16782838
+Rücksicht | Aufmerksamkeit | Teilnahme
+16782839
+Anordnung | Datenfeld | Array
+16782844
+Ume | Japanische Pflaume
+16782846
+kaufen
+16782847
+Ankauf | Aufkauf | Übernahme | Bestechung
+16782852
+Verkaufsartikel
+16782853
+verkaufen
+16782854
+sich verkaufen | absatzfähig sein
+16782856
+Handel | Geschäft
+16782857
+Entschädigung | Schadenersatz | Kompensation
+16782866
+Gelehrsamkeit | umfassende Bildung
+16782873
+Weiß
+16782874
+weiß
+16782876
+weißes Gewand | Arztkittel
+16782885
+dünn | leicht | hellfarbig
+16782890
+näher rücken | nahen | bevorstehen
+16782893
+vage
+16782895
+Bombe
+16782896
+Explosion | Detonation
+16782897
+binden | fesseln | an etw. binden
+16782909
+(Ton-) Topf | (Ton-) Schüssel
+16782910
+Abfahrt (von …, um …) | Absenden
+16782911
+von sich geben | ausstoßen (einen Laut etc.) | ausstrahlen
+16782914
+Zündung | Entzündung
+16782919
+Entdeckung | Auffindung | Fund
+16782920
+Äußerung | Aussage | Bemerkung
+16782921
+Herausgabe | Publikation | Ausstellung (von Bescheinigungen o.Ä.)
+16782923
+Ausstrahlung; auch magnetisch etc. | Ausbreitung | Divergenz
+16782926
+Entstehung | Ausbruch | Erzeugung
+16782927
+Stimmgebung | Phonation | Äußerung
+16782929
+Absendung | Versendung | Abfertigung
+16782930
+(menschliche) Entwicklung | Wachstum
+16782933
+wirtschaftliches Wachstum | Entwicklung
+16782937
+Erwärmung | Wärmeerzeugung | Fieber
+16782938
+Verkaufsstart
+16782939
+Verkündigung | Bekanntmachung
+16782950
+herausziehen | entfernen | weglassen
+16782951
+ausfallen | abgehen | verschwinden | austreten
+16782957
+Urteil | Rechtsspruch
+16782960
+Entscheidung
+16782967
+Halbierung
+16782971
+Fragment | Bruchstück | etw. Unvollständiges
+16782974
+Hälfte | halb

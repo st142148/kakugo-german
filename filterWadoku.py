@@ -153,7 +153,7 @@ with open("wadoku_extract", 'r', encoding='utf-8') as w:
             #        print(de_new[0][0])
             if de_old in de_new[0][:3]:
                 # [0:3] to n; n < 5; probably only slight variations, take the first three
-                if len(de_new[0]) < 5:
+                if len(de_new[0]) < 7:
                     dic[id] = ' | '.join(de_new[0][:3])
                     f.write(id + '\n')
                     f.write(dic[id] + '\n')

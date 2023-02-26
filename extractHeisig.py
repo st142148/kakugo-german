@@ -4,12 +4,42 @@
 # Could/Should work with others languages
 
 import sys
+import sqlite3
+
+def print_help():
+    print("Usage:")
+    print("> python extractHeisig.py PDF [OPTION...] [-commit]")
+    print("")
+    print("     PDF    \"Remembering the Kanji\" in pdf format.")
+    print("             When using text or kanji cache PDF does not have to be a valid file")
+    print("")
+    print("OPTIONS")
+    print("     -lang LANG")
+    print("             Select between DE and EN")
+    print("             Defaults to DE")
+    print("     -textDump FILE")
+    print("             dump extracted text from pdf into file")
+    print("     -textCache FILE")
+    print("             read text from dumped cache, skipping the extraction")
+    print("             PDF-file name must still be given, because I'm lazy")
+    print("     -kanjiDump FILE")
+    print("             dump extracted kanji definition file")
+    print("     -kanjiCache FILE")
+    print("             read kanji definition from dumped cache, skipping the extraction")
+    print("")
+    print("COMMITING")
+    print("     -commit")
+    print("             After checking the output for correctness write the information to the database")
+    print("")
+
 
 if len(sys.argv) < 2:
     print("ERROR: expected at least the file name of the pdf")
+    print_help()
     exit()
 elif len(sys.argv) % 2 != 0 and "-commit" not in sys.argv:
     print("ERROR: Argument missing")
+    print_help()
     exit()
 
 
@@ -241,40 +271,28 @@ if len(dict["kanji"]) == 0:
     if dump == True:
         dump_file.close()
 
+#SQLite connection
+def create_connection(db_file):
+    print("connecting to database")
+    conn = None
+    try:
+        conn = sqlite3.connect(db_file)
+    except Error as e:
+        print(e)
+    print("…done")
+    return conn
 
 # Commit data to database
 if commit == False:
     print("Extraction finished! \nIf you are happy with the result run the script with \"-commit\" to write the data to the database")
+else:
+    lang = lang.lower()
 
-
-
-
-
-def print_help():
-    print("Usage:")
-    print("> python extractHeisigMeaning.py PDF [OPTION...] [-commit LANG]")
-    print("")
-    print("     PDF    \"Remembering the Kanji\" in pdf format.")
-    print("")
-    print("OPTIONS")
-    print("     -textDump FILE")
-    print("             dump extracted text from pdf into file")
-    print("")
-    print("     -textCache FILE")
-    print("             read text from dumped cache, skipping the extraction")
-    print("             PDF-file name must still be given, because I'm lazy")
-    print("")
-    print("     -kanjiDump FILE")
-    print("             dump extracted kanji definition file")
-    print("")
-    print("     -kanjiCache FILE")
-    print("             read kanji definition from dumped cache, skipping the extraction")
-    print("")
-    print("COMMITING")
-    print("")
-    print("     After checking the output for correctness")
-    print("")
-    print("")
-    print("")
-    print("")
-    print("")
+    database = r"./dict_new.sqlite"
+    conn = create_connection(database)
+    with conn:
+        cur = conn.cursor()
+        for i in range(0, len(dict["kanji"])):
+            id = str(ord(dict["kanji"][i]))
+            m = dict["meaning"][i]
+            cur.execute("UPDATE kanjis SET meanings_" + lang + "='" + m + "' WHERE id=" + id)

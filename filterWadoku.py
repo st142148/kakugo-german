@@ -161,20 +161,24 @@ with open("wadoku_extract", 'r', encoding='utf-8') as w:
                 # [0:3] to n; n > 5; probably multiple more distinct meanings, manual selection
                 else:
                     os.system("chromium \"jisho.org/search/" + ja.split()[0] +"\"")
+                    os.system("firefox \"duckduckgo.com/?q=" + ja.split()[0] +"&iar=images&iax=images&ia=images\"")
                     os.system("wmctrl -a filterWadoku")
                     dic[id] = ' | '.join(select_definitions(de_new[0]))
                     f.write(id + '\n')
                     f.write(dic[id] + '\n')
                     os.system("wmctrl -a Chromium; xdotool key Ctrl+w; wmctrl -a filterWadoku")
+                    os.system("wmctrl -a firefox; xdotool key Ctrl+w; wmctrl -a filterWadoku")
                 continue
             elif de_old in de_new[0]:
                 # old entry is somewhere in the new list. correct meaning needs to be selected
                 os.system("chromium \"jisho.org/search/" + ja.split()[0] +"\"")
+                os.system("firefox \"duckduckgo.com/?q=" + ja.split()[0] +"&iar=images&iax=images&ia=images\"")
                 os.system("wmctrl -a filterWadoku")
                 dic[id] = ' | '.join(select_definitions(de_new[0]))
                 f.write(id + '\n')
                 f.write(dic[id] + '\n')
                 os.system("wmctrl -a Chromium; xdotool key Ctrl+w; wmctrl -a filterWadoku")
+                os.system("wmctrl -a firefox; xdotool key Ctrl+w; wmctrl -a filterWadoku")
             # no direct match
             else:
                 # less than four variants; probably the right meaning
@@ -186,11 +190,13 @@ with open("wadoku_extract", 'r', encoding='utf-8') as w:
                 # more four or more variants; manual selection
                 else:
                     os.system("chromium \"jisho.org/search/" + ja.split()[0] +"\"")
+                    os.system("firefox \"duckduckgo.com/?q=" + ja.split()[0] +"&iar=images&iax=images&ia=images\"")
                     os.system("wmctrl -a filterWadoku")
                     dic[id] = ' | '.join(select_definitions(de_new[0]))
                     f.write(id + '\n')
                     f.write(dic[id] + '\n')
                     os.system("wmctrl -a Chromium; xdotool key Ctrl+w; wmctrl -a filterWadoku")
+                    os.system("wmctrl -a firefox; xdotool key Ctrl+w; wmctrl -a filterWadoku")
 
 
 
